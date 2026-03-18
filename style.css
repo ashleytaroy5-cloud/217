@@ -47,7 +47,7 @@
     h3                              { font-size:2.25em; font-weight:200; letter-spacing:1px; line-height:1em; padding:0.5em 0 0.25em 0; }
 
     /* Link hover changed to Neon Blue */
-    a                               { border-bottom:1px solid rgba(0,0,0,0.2); color:#000; text-decoration:none; transition:border-color 0.2s ease-in-out; }
+    a                               { border-bottom:1px solid rgba(0,0,0,0.2); color:#5b326450; text-decoration:none; transition:border-color 0.2s ease-in-out; }
     a:hover                         { border-color:#00ffff; }
     
     section.intro div.summary p a,
